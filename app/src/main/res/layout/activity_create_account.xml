@@ -36,7 +36,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto1"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"/>
@@ -66,7 +66,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto2"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"
@@ -100,7 +100,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto3"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"/>
@@ -135,7 +135,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto4"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"/>
@@ -170,7 +170,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto5"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"/>
@@ -205,7 +205,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto6"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"/>
@@ -241,7 +241,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto7"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"/>
@@ -278,7 +278,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_weight="0.32"
                 android:text="@string/contacto8"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/colorPrimary1"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:background="@color/colorAccent"/>
