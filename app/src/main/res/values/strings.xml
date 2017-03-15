@@ -17,5 +17,7 @@
     <string name="email">correo electronico</string>
     <string name="password">password</string>
     <string name="button">Actualizar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre1">Carolina </string>
 
 </resources>
