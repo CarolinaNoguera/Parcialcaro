@@ -38,7 +38,8 @@
                 android:text="@string/contacto1"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:background="@color/colorAccent"/>
 
 
 
@@ -67,7 +68,9 @@
                 android:text="@string/contacto2"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:background="@color/colorAccent"
+                />
 
 
 
@@ -99,7 +102,8 @@
                 android:text="@string/contacto3"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:background="@color/colorAccent"/>
 
 
 
@@ -133,7 +137,8 @@
                 android:text="@string/contacto4"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:background="@color/colorAccent"/>
 
 
 
@@ -167,7 +172,8 @@
                 android:text="@string/contacto5"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:background="@color/colorAccent"/>
 
 
 
@@ -201,7 +207,8 @@
                 android:text="@string/contacto6"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:background="@color/colorAccent"/>
 
 
 
@@ -236,7 +243,8 @@
                 android:text="@string/contacto7"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:background="@color/colorAccent"/>
 
 
 
@@ -245,6 +253,44 @@
 
 
         </LinearLayout>
+
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/colorAccent"
+                android:layout_marginLeft="20dp"/>
+
+            <TextView
+                android:id="@+id/id_tv_question6"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="0.32"
+                android:text="@string/contacto8"
+                android:textColor="@color/colorPrimary"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:background="@color/colorAccent"/>
+
+
+
+
+
+
+
+        </LinearLayout>
+
 
     </LinearLayout>
 
